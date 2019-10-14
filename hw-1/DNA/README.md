@@ -19,5 +19,17 @@ Sample Output
 ---
 20 12 17 21
 
+Example
+---
+
+Run with dataset file path
+
+```sh
+cargo run dataset.txt
+```
+
+
+
+
 
 
