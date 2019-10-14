@@ -18,7 +18,7 @@ GAUGGAACUUGACUACGUAAAUU
 
 Usage Example
 ---
-````
+
 Run with dataset file path
 
 ```sh
