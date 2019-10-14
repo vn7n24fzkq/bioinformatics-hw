@@ -19,7 +19,7 @@ Sample Output
 ---
 20 12 17 21
 
-Example
+Usage Example
 ---
 
 Run with dataset file path
